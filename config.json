@@ -1,16 +1,16 @@
 {
     "mongo": "mongodb://mongo:27017",
-    "seed":  "seed phrase",
+    "seed":  "remain goose poverty diet easily west mother deliver sunny tilt remain warrior",
     "node": "https://rpc.trigonevm.space",
     "restAPI": "https://explorer.trigonevm.space/api",
     "restAPIport": 2343,
     "chainId": "929",
     "pg": {
-        "host": "db",
+        "host": "localhost",
         "port": 5432,
-        "user": "postgres",
-        "password": "password",
-        "database": "database"
+        "user": "enzifiri",
+        "password": "asd123asd",
+        "database": "explorer"
     },
     "ApiKeyToken": ""
 }
