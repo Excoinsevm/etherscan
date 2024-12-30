@@ -1,10 +1,10 @@
 {
     "mongo": "mongodb://mongo:27017",
     "seed":  "seed phrase",
-    "node": "https://explorer_url",
-    "restAPI": "https://api_url",
+    "node": "https://rpc.trigonevm.space",
+    "restAPI": "https://explorer.trigonevm.space/api",
     "restAPIport": 2343,
-    "chainId": "1",
+    "chainId": "929",
     "pg": {
         "host": "db",
         "port": 5432,
